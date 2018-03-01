@@ -25,10 +25,10 @@ bot1.json修改为<br>
 ③运行程序
 ---
 输入 <br>
-cd /root/ASF<br>
-chmod +x ArchiSteamFarm<br>
-sudo ./ArchiSteamFarm<br>
-④安装之后不能正常运行的主要原因是：<br>
+cd /root/ASF <br>
+chmod +x ArchiSteamFarm <br>
+sudo ./ArchiSteamFarm <br>
+④安装之后不能正常运行的主要原因是：
 ---
 1.帐号信息填错<br>
 ---
