@@ -2,9 +2,9 @@ ubuntu STEAM 挂卡
 ===
 ① 本脚本主要运行ubuntu系统下，其他系统不一定支持，centos肯定不支持。<br>
 ---
-② 本脚本需要你提前获得你的三样steam数据：<br>
+②本脚本需要你提前获得你的三样steam数据：
 ---
-1.你的steam64位id 可在https://steamdb.info/calculator/上获得并查看 <br>
+1.你的steam64位ID在柯林斯https://steamdb.info/calculator/上获得并查看 <br>
 2.登录帐号<br>
 3.密码<br>
 本脚本开源，不会盗取个人信息，填错帐号信息也无妨<br>
